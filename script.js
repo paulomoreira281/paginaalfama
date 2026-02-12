@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Scroll animations (fade-in)
     const fadeElements = document.querySelectorAll(
-        '.pain-card, .step-card, .audience-card, .testimonial-card, .offer-card, .faq-item'
+        '.step-card, .audience-card, .testimonial-card, .offer-card, .faq-item'
     );
 
     fadeElements.forEach(function (el) {
